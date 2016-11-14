@@ -149,7 +149,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
+<v t="leo.20151213230723.1" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
 <v t="leo.20151213230729.1"><vh>使用 summary plugin</vh></v>
 </v>
@@ -159,19 +159,20 @@
 <v t="leo.20151213085752.1"><vh>@edit local_publishconf.py</vh></v>
 </v>
 </v>
-<v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
 <v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1" a="E"><vh>yen 所寫的網誌文章</vh>
+<v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20160727114506.1" a="E"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit 20160921.md</vh></v>
 <v t="leo.20161014142409.1"><vh>@edit 20161014.md</vh></v>
-<v t="leo.20161024160947.1"><vh>@edit 20161024.md</vh></v>
-<v t="leo.20161031141953.1"><vh>@edit 20161031.md</vh></v>
+<v t="leo.20161031141953.1"><vh>@edit 20161104.md</vh></v>
+<v t="yen.20161105200835.1"><vh>@edit 20161105.md</vh></v>
+<v t="leo.20161114144450.1"><vh>@edit 20161114.md</vh></v>
 </v>
 </v>
 </v>
-<v t="amd.20160106094754.1"><vh>@path ./../content/pages</vh>
+<v t="amd.20160106094754.1" a="E"><vh>@path ./../content/pages</vh>
 <v t="amd.20160106094829.1" a="E"><vh>yen 所寫的 pages 文章</vh>
 <v t="amd.20160106094844.1"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -179,6 +180,14 @@
 <v t="amd.20161004202833.1"><vh>@edit ../README.md</vh></v>
 <v t="yen.20161022111056.1"><vh>@button https server</vh></v>
 <v t="yen.20161022151749.1"><vh>產生 .key 與 .crt</vh></v>
+<v t="yen.20161105200127.1" a="E"><vh>選課人員名單</vh>
+<v t="yen.20161105200140.1"><vh>@edit a.txt</vh></v>
+<v t="yen.20161105200241.1"><vh>@edit b.txt</vh></v>
+</v>
+<v t="yen.20161105200145.1" a="E"><vh>分組名單</vh>
+<v t="yen.20161105200154.1"><vh>@edit agroup.txt</vh></v>
+<v t="yen.20161105200234.1"><vh>@edit bgroup.txt</vh></v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="amd.20151215170031.1"></t>
@@ -307,10 +316,10 @@ print("hello")
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [s40523239](http://chiamingyen.github.io/kmolab/blog/)
+Created by [KMOLab](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
-[s40523239](blog/index.html)
+[blog](blog/index.html)
 
 </t>
 <t tx="amd.20161004104641.1">&lt;section data-markdown&gt;
@@ -1043,5 +1052,7 @@ make.start()</t>
 <t tx="yen.20161022151749.1">sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout localhost.key -out localhost.crt
 
 </t>
+<t tx="yen.20161105200127.1"></t>
+<t tx="yen.20161105200145.1"></t>
 </tnodes>
 </leo_file>
