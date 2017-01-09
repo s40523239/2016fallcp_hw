@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2016-12-12T14:25:13-00:00</lastmod>
+<lastmod>2017-01-09T12:11:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2016-12-12T14:25:13-00:00</lastmod>
+<lastmod>2017-01-09T12:11:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2016-12-12T14:25:13-00:00</lastmod>
+<lastmod>2017-01-09T12:11:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2016-12-12T14:25:13-00:00</lastmod>
+<lastmod>2017-01-09T12:11:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2016-12-12T14:09:50+08:00</lastmod>
+<lastmod>2017-01-09T11:53:49+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./w16.html</loc>
+<lastmod>2016-12-27T08:57:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,34 +117,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/course.html</loc>
-<lastmod>2016-11-05T12:00:00+08:06</lastmod>
+<lastmod>2016-12-27T08:57:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2016-12-12T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/shi-yong-dao-yin.html</loc>
-<lastmod>2016-12-12T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/chuang-zao-li.html</loc>
-<lastmod>2016-12-12T12:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/biao-da-neng-li.html</loc>
 <lastmod>2016-12-12T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -151,6 +137,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/biao-da-neng-li.html</loc>
+<lastmod>2016-12-12T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/ping-fen.html</loc>
 <lastmod>2016-11-05T12:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -158,8 +151,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./author/s40523239.html</loc>
+<loc>./tag/brython.html</loc>
+<lastmod>2016-12-27T08:57:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/chuang-zao-li.html</loc>
 <lastmod>2016-12-12T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/shi-yong-dao-yin.html</loc>
+<lastmod>2016-12-12T12:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/s40523239.html</loc>
+<lastmod>2016-12-27T08:57:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
