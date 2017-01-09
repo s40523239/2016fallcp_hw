@@ -40,7 +40,39 @@ alert("恭喜!答對了 ,需要猜" + (str(guess)) + "次")
 &lt;p&gt;W16心得：
 學習怎麼用程式做"終極密碼"，先定義輸入值為"1"利用if 1大於答案 則顯示"too big" ，else 的話則顯示"too small"(else表示不是大於 =&amp;gt;就是小於)
 當1=答案(程式的等於為+=)則跳出答對的警告
-設定終極密碼是介於1~100之間&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>W16</title><link href="./w16.html" rel="alternate"></link><published>2016-12-27T08:57:00+08:00</published><updated>2016-12-27T08:57:00+08:00</updated><author><name>s40523239</name></author><id>tag:,2016-12-27:./w16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+設定終極密碼是介於1~100之間
+學習到怎麼用程式製作遊戲後發現很有趣&lt;/p&gt;
+&lt;p&gt;W15範例:
+&lt;!-- PELICAN_END_SUMMARY --&gt;&lt;/p&gt;
+&lt;p&gt;繪圖流程,導入資料庫,啟動,然後引用各種模組開始繪圖&lt;/p&gt;
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+
+&lt;script type="text/javascript" 
+    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document
+from browser import alert
+
+def get_input(ev):
+    the_input= input("請輸入")
+    alert("輸入為:"+str(the_input))
+
+    document['ch01'].bind('click',get_input)
+&lt;/script&gt;
+
+&lt;p&gt;&lt;button id="ch01"&gt;取輸入後, 列印出來&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;W15心得：
+利用程式製作小方塊  輸入數字和次數後可以在下方空白處列印出來&lt;/p&gt;</summary><category term="Brython"></category></entry><entry><title>W16</title><link href="./w16.html" rel="alternate"></link><published>2016-12-27T08:57:00+08:00</published><updated>2016-12-27T08:57:00+08:00</updated><author><name>s40523239</name></author><id>tag:,2016-12-27:./w16.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
