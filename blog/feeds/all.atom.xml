@@ -33,7 +33,7 @@ while ans != a_in:
         a_in = int(input("too big"))
     guess += 1
 
-alert("幹!答對了 ,到底要猜" + (str(guess)) + "次")
+alert("幹!答對了 ,廢耶要猜" + (str(guess)) + "次")
 &lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>w14</title><link href="./w14.html" rel="alternate"></link><published>2016-12-12T12:00:00+08:00</published><updated>2016-12-12T12:00:00+08:00</updated><author><name>s40523239</name></author><id>tag:,2016-12-12:./w14.html</id><summary type="html">&lt;p&gt;Python 練習題&lt;/p&gt;
 
 

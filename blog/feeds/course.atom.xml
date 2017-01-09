@@ -33,7 +33,7 @@ while ans != a_in:
         a_in = int(input("too big"))
     guess += 1
 
-alert("幹!答對了 ,到底要猜" + (str(guess)) + "次")
+alert("幹!答對了 ,廢耶要猜" + (str(guess)) + "次")
 &lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>2016Fall CP 學員連結</title><link href="./2016fall-cp-xue-yuan-lian-jie.html" rel="alternate"></link><published>2016-11-05T12:00:00+08:00</published><updated>2016-11-05T12:00:00+08:00</updated><author><name>s40523239</name></author><id>tag:,2016-11-05:./2016fall-cp-xue-yuan-lian-jie.html</id><summary type="html">&lt;p&gt;利用計算機程式兩班選課名單可以產生個別成員的倉儲、筆記、投影片與網誌.&lt;/p&gt;
 
 
