@@ -6,7 +6,7 @@
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;pre class="brush: python"&gt;
@@ -773,7 +773,7 @@ ctx.closePath()
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;!-- 啟動 Brython --&gt;
@@ -1551,7 +1551,7 @@ ctx.closePath()
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;!-- 啟動 Brython --&gt;
@@ -2421,7 +2421,7 @@ print(count)
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;!-- 啟動 Brython --&gt;
@@ -2497,7 +2497,7 @@ container &lt;= output
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;!-- 啟動 Brython --&gt;
@@ -2577,7 +2577,7 @@ for i in not_in_group:
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;!-- 啟動 Brython --&gt;
@@ -2696,7 +2696,7 @@ for i in not_in_group:
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" 
-    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+    src="https://cdn.jsdelivr.net/gh/brython-dev/brython@master/www/src/brython_dist.js"&gt;
 &lt;/script&gt;
 
 &lt;!-- 啟動 Brython --&gt;
